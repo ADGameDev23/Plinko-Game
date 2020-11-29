@@ -1,3 +1,3 @@
 # C31-Plinko-Game
 ## Enjoy the Plinko Game 
-## Link :- 
+## Link :-  https://adgamedev23.github.io/Plinko-Game/
